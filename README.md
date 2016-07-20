@@ -1,2 +1,6 @@
 # hello-world
-test
+
+Hey Guys
+I'm Azheng
+a new leaner of ruby on rails.
+
